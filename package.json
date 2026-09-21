@@ -1,6 +1,6 @@
 {
   "name": "react",
-  "version": "0.1.36",
+  "version": "0.1.37",
   "description": "Learning React topic by topic: elements, components, props, local state, controlled components, lifecycle, conditional rendering, Redux, unit tests, Webpack and a full client app.",
   "main": "src/index.js",
   "scripts": {
